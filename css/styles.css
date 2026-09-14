@@ -67,10 +67,25 @@ p {
     margin-bottom: 8px;
 }
 
-.pad {
-    padding: 16px;
+.frame {
+    border: 6px solid #111111;
 }
 
 .bg-red {
-    background-color: #d40920;
+    background: #d40920;
+    color: #ffffff;
+}
+
+.bg-blue {
+    background: #1356a2;
+    color: #111111;
+}
+
+.bg-yellow {
+    background: #f7d842;
+    color: #111111;
+}
+
+.pad {
+    padding: 16px;
 }
