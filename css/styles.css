@@ -35,6 +35,10 @@ main {
     grid-column: span 4;
 }
 
+aside {
+    grid-column: span 1;
+}
+
 section {
     display: grid;
     grid-template: auto / 1fr 1fr 1fr;
