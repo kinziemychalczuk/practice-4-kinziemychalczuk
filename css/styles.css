@@ -87,6 +87,11 @@ p {
     color: #111111;
 }
 
+.bg-white {
+    background: #ffffff;
+    color: #111111;
+}
+
 .pad {
     padding: 16px;
 }
